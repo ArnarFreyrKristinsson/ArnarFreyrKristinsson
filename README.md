@@ -1,5 +1,5 @@
 # 💫 About Me
-Backend-focused developer with professional Django experience and a strong interest in building clean, reliable systems. I enjoy working on business logic, testing, and practical tools that solve real problems.
+Software developer with professional Django experience and a strong interest in building clean, reliable systems. I enjoy working on business logic, testing, and practical tools that solve real problems.
 
 <br>
 
